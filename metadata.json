@@ -1,0 +1,6 @@
+{
+  "name": "RozKhata",
+  "description": "Daily ledger and customer management app",
+  "requestFramePermissions": ["publickey-credentials-create", "publickey-credentials-get"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
